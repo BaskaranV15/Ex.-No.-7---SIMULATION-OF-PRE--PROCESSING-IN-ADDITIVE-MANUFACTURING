@@ -55,7 +55,7 @@ In additive manufacturing, the STL (Standard Tessellation Language) file format 
 ![Screenshot 2023-05-30 175644](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/595f17af-19f4-4c82-8f2d-ad66dc572c28)
 : Import the CAD file into slicing software. Configure the slicing parameters, including layer height, print speed, infill density, support settings, and any other relevant parameters. Preview the sliced model in the software to identify any potential issues and make necessary adjustments.
 ![Screenshot 2023-05-30 175655](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/fb5740cd-c5e0-4ce5-86a4-a4c27f6c5d34)
-![Screenshot 2023-05-30 175655](https://github.com/BaskaranV15/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/fb5740cd-c5e0-4ce5-86a4-a4c27f6c5d34)
+Path planning in 3D printing refers to the process of determining the optimal toolpath or trajectory that the 3D printer's nozzle or extruder will follow to create the desired object. This path planning is typically performed by the slicing software as part of the overall preparation process. Here are some key aspects of path planning in 3D printing:
 
 
 ## Output:
